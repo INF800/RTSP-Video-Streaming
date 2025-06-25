@@ -77,7 +77,7 @@ Further description of the system design will be provided if requested by reader
 
 The complete system design and data flow of this project is illustrated by the following image.
 
-![image](https://github.com/user-attachments/assets/4dc22fd3-5c90-4e73-a797-6153eca9636d)
+![image](https://github.com/user-attachments/assets/de9b809d-286b-4063-9cb4-c29db557004c)
 
 
 Each component of the system will be explored in detail in the following sections.
